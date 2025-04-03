@@ -7,7 +7,7 @@
       "predicate": {
         "equipment": {
           "mainhand": {
-            "item": "minecraft:compass",
+            "items": ["minecraft:compass"],
             "nbt": "{GPS:1b}"
           }
         }
@@ -19,7 +19,7 @@
       "predicate": {
         "equipment": {
           "offhand": {
-            "item": "minecraft:compass",
+            "items": ["minecraft:compass"],
             "nbt": "{GPS:1b}"
           }
         }
