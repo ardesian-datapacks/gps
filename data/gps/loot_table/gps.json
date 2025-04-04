@@ -22,19 +22,19 @@
                 "minecraft:max_stack_size": 1,
                 "minecraft:enchantment_glint_override": true,
                 "minecraft:custom_name": {
-                  text: "GPS",
-                  italic: false
+                  "text": "GPS",
+                  "italic": false
                 },
                 "minecraft:lore": [
                   {
-                    text: "Futuristic device",
-                    italic: true,
-                    color: "gray"
+                    "text": "Futuristic device",
+                    "italic": true,
+                    "color": "light_purple"
                   },
                   {
-                    text: "Shows exact location",
-                    italic: true,
-                    color: "gray"
+                    "text": "Shows exact location",
+                    "italic": false,
+                    "color": "gray"
                   }
                 ]
               }
